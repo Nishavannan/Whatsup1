@@ -1,0 +1,3 @@
+GIT- It is a version control system (managing softwre code version).
+
+GITHUB=Git integrated with many other applications for user to work easily.
